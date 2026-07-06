@@ -1,1 +1,5 @@
-
+- **greet(name)** — returns a greeting string for the given name.
+- **isEven(num)** — returns true if a number is even, false otherwise.
+- **add(a, b)** — returns the sum of two numbers.
+- **reverseString(str)** — returns a string with its characters reversed.
+- **findMax(numbers)** — returns the largest number in an array.
